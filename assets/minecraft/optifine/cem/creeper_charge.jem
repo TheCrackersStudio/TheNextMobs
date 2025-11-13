@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"texture": "creeper_charge.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -18, 0],
+			"boxes": [
+				{"coordinates": [-5, 17, -5, 10, 10, 10], "textureOffset": [-2, -2]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -18, 0],
+			"boxes": [
+				{"coordinates": [-5, 5, -3, 10, 14, 6], "textureOffset": [14, 14]}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-2, -6, -4],
+			"boxes": [
+				{"coordinates": [-1, -1, 1, 6, 8, 6], "textureOffset": [-2, 14]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [2, -6, -4],
+			"boxes": [
+				{"coordinates": [-5, -1, 1, 6, 8, 6], "textureOffset": [-2, 14]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-2, -6, 4],
+			"boxes": [
+				{"coordinates": [-1, -1, -7, 6, 8, 6], "textureOffset": [-3, 14]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [2, -6, 4],
+			"boxes": [
+				{"coordinates": [-5, -1, -7, 6, 8, 6], "textureOffset": [-2, 14]}
+			]
+		}
+	]
+}

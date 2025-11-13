@@ -1,0 +1,107 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "cave_spider.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -5.5, 4],
+			"boxes": [
+				{"coordinates": [-3, -1, -7, 6, 5, 5], "textureOffset": [0, 13]},
+				{"coordinates": [-3, -2, -7, 6, 1, 0], "textureOffset": [22, 21]}
+			]
+		},
+		{
+			"part": "neck",
+			"id": "neck",
+			"invertAxis": "xy",
+			"translate": [0, -5, 1],
+			"boxes": [
+				{"coordinates": [-2, -1, -2, 4, 4, 2], "textureOffset": [22, 15]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -5.5, -8],
+			"boxes": [
+				{"coordinates": [-3, -1, 0, 6, 5, 8], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3.5, -5.5, -1.5],
+			"boxes": [
+				{"coordinates": [4, 0, 0, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3.5, -5.5, -1.5],
+			"boxes": [
+				{"coordinates": [-12, 0, 0, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3.5, -5.5, -0.5],
+			"boxes": [
+				{"coordinates": [4, 0, -0.5, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3.5, -5.5, -0.5],
+			"boxes": [
+				{"coordinates": [-12, 0, -0.5, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg5",
+			"id": "leg5",
+			"invertAxis": "xy",
+			"translate": [-3.5, -5.5, 0.5],
+			"boxes": [
+				{"coordinates": [4, 0, -0.5, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg6",
+			"id": "leg6",
+			"invertAxis": "xy",
+			"translate": [3.5, -5.5, 0.5],
+			"boxes": [
+				{"coordinates": [-12, 0, -0.5, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg7",
+			"id": "leg7",
+			"invertAxis": "xy",
+			"translate": [-3.5, -5.5, 1.5],
+			"boxes": [
+				{"coordinates": [4, 0, -1, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		},
+		{
+			"part": "leg8",
+			"id": "leg8",
+			"invertAxis": "xy",
+			"translate": [3.5, -5.5, 1.5],
+			"boxes": [
+				{"coordinates": [-12, 0, -1, 8, 1, 1], "textureOffset": [22, 13]}
+			]
+		}
+	]
+}

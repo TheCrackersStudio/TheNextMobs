@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"texture": "head_creeper.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-2, 8, -2, 4, 5, 4], "textureOffset": [46, 10]},
+				{"coordinates": [-3, 13, -3, 6, 1, 6], "textureOffset": [40, 1]},
+				{"coordinates": [-4, -7, -2, 8, 7, 4], "textureOffset": [40, 21], "sizeAdd": 0.5}
+			]
+		}
+	]
+}
